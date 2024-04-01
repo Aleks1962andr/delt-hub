@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
-
+import DateTime from './DateTime';
+import { Work } from './Work';
+import imageTime from './time.jpg'
+import imageList from './slist.jpg'
+ 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div className='app'>
+   <div className="container">
+  <img src={imageList} alt="foto1" width="400px" height="120px" />
+  </div>
+      <div>
+<h1 className='heading'>ПЛАНИРОВЩИК ДЕЛ</h1>
+      </div>
+      <div>
+  <DateTime />
+  <Work />    
+     </div>
+<div className="container">
+  <img src={imageTime} alt="foto1" width="400px" />
+  </div>
+     </div>
   );
 }
 
