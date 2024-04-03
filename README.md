@@ -44,8 +44,6 @@ This project is a simple task scheduler built using React. It allows users to pl
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -54,8 +52,6 @@ Use the `BLANK_README.md` to get started.
 * <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=whait"/>
 * <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=whait"/>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -80,25 +76,17 @@ To get a local copy up and running follow these simple example steps:
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 This project is a simple task scheduler. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
 
 Training program. Free distribution.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -107,6 +95,4 @@ Training program. Free distribution.
 Your Name - [Aleks1962andr](https://linkedin.com/in/alexander-andreev-5964902b8)  
 
 Project Link: [Task Scheduler](https://github.com/Aleks1962andr/delt-hub.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
